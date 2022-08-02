@@ -30,13 +30,13 @@
   </parent>
 
   <artifactId>activemq-ldap-encrypted</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
   <scm>
     <connection>scm:git:git@github.com:tomitribe/activemq-ldap-encrypted.git</connection>
     <url>scm:git:git@github.com:tomitribe/activemq-ldap-encrypted.git</url>
     <developerConnection>scm:git:git@github.com:tomitribe/activemq-ldap-encrypted.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>activemq-ldap-encrypted-0.0.1</tag>
   </scm>
 
 
